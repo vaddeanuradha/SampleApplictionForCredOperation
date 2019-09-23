@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EmployeeApiBL/bin
+/.vs
+/EmployeeApiBL/obj
+/EmployeeApiDAL/bin
+/EmployeeApiDAL/obj
+/EmployeeEL/bin
+/EmployeeEL/obj
+/EmployeeWebApi/bin
+/EmployeeWebApi/obj
+/WebApplication1/bin
+/WebApplication1/obj
